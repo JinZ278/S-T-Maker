@@ -1,0 +1,13 @@
+Survey Maker - Jin Zhang
+
+Description
+Hello and Welcome to my Survey Maker, Professors and TAs
+
+Issues
+    Some hard coded limitations (IE max multi-choice options, max matching options)
+
+Instructions
+1. Run Main.java
+2. Choose Survey maker or Test maker and go from there.
+3. Enter user input in terminal to interact with the menus.
+
